@@ -18,7 +18,7 @@ public class U5W1D1Application {
         menu.printMenu();
 
 
-        context.close(); // Alla fine delle operazioni è buona norma chiudere il context
+        context.close();
 
 
     }
